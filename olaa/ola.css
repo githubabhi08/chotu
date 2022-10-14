@@ -1,0 +1,531 @@
+.navbar-brand{
+    position: relative;
+    right: 950px;
+    top: 10px;
+}
+.navbar-brand i{
+    font-size: 90px;
+    color:blue;
+    top: 2px;
+    position: relative;
+}
+.navbar-nav{
+    position: relative;
+    right: 190px;
+    font-family: cursive;
+    font-weight: 900;
+    font-size: 20px;
+    cursor: pointer;
+}
+.navbar-nav a:hover{
+    color: rgb(70, 70, 254);
+}
+.nav-link{
+    color: blue;
+}
+.search{
+    position: relative;
+    left: 850px;
+    top: 18px;
+}
+.tr{
+    border-radius: 0px 20px 20px 0px;
+    background-color: blue;
+    
+}
+.colo p:hover{
+    color:rgb(0, 166, 255) ;
+}
+.colo{
+    position: relative;
+    left: 82px;
+    color: rgb(0, 166, 255);
+    font-size: 19px;
+    font-weight: 670;
+    top: 2px;
+    height: 47px;
+    
+}
+.search input:hover{
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+.kl{
+    background-image: url("https://cdn.pixabay.com/photo/2017/05/07/19/32/strawberry-2293337__340.jpg");
+    height: 80vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    position: relative;
+    left: 0px;
+}
+.user i{
+    position: relative;
+    color: blue;
+    bottom: 30px;
+    left: 217px;
+    font-size: 39px;
+}
+.bt{
+    position: relative;
+    top: 440px;
+    right: 470px;
+}
+.btn1{
+    position: relative;
+    left: 7px;
+   font-weight: 700;
+   
+}
+.bt button{
+    border-radius:50px;
+    height: 37px;
+   
+}
+.btn2{
+    position: relative;
+    outline: none;
+    font-weight: 700;
+    background-color:blue;
+}
+span button:hover{
+    background-color: blue; 
+    transition: all 0.4s;
+}
+.im{
+    background-image: url("https://cdn.pixabay.com/photo/2022/08/11/16/57/apple-7379911__340.png");
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 50%;
+    position: relative;
+    left: 290px;
+}
+.our{
+    position: relative;
+    right: 800px;
+    top: 55px;
+}
+.our h1{
+    color: blue;
+}
+.line{
+    height: 7px;
+    width: 10%;
+    background-color: blue;
+    position: relative;
+    right: 295px;
+    bottom: 7px;
+}
+.para{
+    color: blue;
+    font-weight: 700;
+    position: relative;
+    left: 100px;
+    padding-left: 100px;
+}
+.back{
+    background-color: blue;
+    height: 57vh;
+    width:100%;
+}
+.op{
+    color: white;
+}
+.line{
+    height: 5px;
+    width: 15%;
+    background-color: white;
+    position: relative;
+    right: 567px;
+    
+}
+.card{
+    height: 200px;
+
+}
+.store{
+    font-size: 37px;
+    color: blue;
+    
+}
+.wo{
+    font-weight: 800;
+    font-size: 22px;
+    color: blue;
+}
+.pa{
+    font-family: 400;
+    color: blue;
+    font-size: 17px;
+}
+.jo{
+    height: 310px;
+}
+.as{ 
+position: relative;
+top: 35px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.he{
+    position: relative;
+    top: 18px;
+    right: 220px;
+    color: blue;
+    
+}
+.best{
+    color: blue;
+    position: relative;
+    font-weight: 900;
+    
+    font-size: 25px;}
+
+.line2{
+width: 97px;
+height: 5px;
+background-color: blue;
+position: relative;
+top: 1px;
+right: 515px;
+    }
+.star{
+    position: relative;
+bottom: 290px;
+font-weight: 700;
+font-size: 32px;
+color: blue;
+
+
+
+}
+.ru{
+    position: relative;
+    right: 5px;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 70px;
+    color: blue;
+    letter-spacing: 2px;
+}
+.man{
+    position: relative;
+    color: blue;
+    top: 65px;
+    right: 230px;
+
+}
+.st{
+    position: relative;
+    bottom: 230px;
+    right: 1px;
+    color: blue;
+    font-weight: 700;
+font-size: 32px;
+}
+.go{
+    position: relative;
+    top: 70px;
+}
+.wat{
+    color: blue;
+    position: relative;
+    bottom: 40px;
+    right: 149px;
+}
+.water{
+    position: relative;
+    top:5px ;
+}
+.sta{
+    position: relative;
+    bottom: 340px;
+    right: 1px;
+    font-weight: 700;
+font-size: 32px;
+color: blue;
+}
+.eu{
+    position: relative;
+    color: blue;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 120px;
+    letter-spacing: 2px;
+}
+.do{
+    position: relative;
+    color: blue;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 17px;
+    letter-spacing: 2px;
+}
+.sec{
+    height: 700px;
+}
+.cherry{
+    position: relative;
+    bottom: 40px;
+    padding: 4px 4px 4px 4px;
+}
+.cherry{
+    position: relative;
+    top: 40px;
+}
+.cs{
+    position: relative;
+    bottom: 300px;
+    right: 1px;
+    font-weight: 700;
+font-size: 32px;
+color: blue;
+}
+.che{
+    color: blue;
+    position: relative;
+    top: 10px;
+    right: 229px; 
+}
+.cs{
+    position: relative;
+bottom: 290px;
+font-weight: 700;
+font-size: 32px;
+color: blue;
+}
+.ch{
+    position: relative;
+    color: blue;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 70px;
+    letter-spacing: 2px;
+}
+.apl{
+    color: blue;
+    position: relative;
+    bottom: 75px;
+    right: 240px;
+}
+.astar{
+    position: relative;
+    bottom: 370px;
+    right: 1px;
+    font-weight: 700;
+font-size: 32px;
+color: blue; 
+}
+.app{
+    position: relative;
+    color: blue;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 160px;
+    letter-spacing: 2px;
+}
+.gra{
+    position: relative;
+    top: 30px;
+}
+.grapes{
+    color: blue;
+    position: relative;
+    top: 35px;
+    right: 230px;
+}
+.gstar{
+    position: relative;
+    bottom: 270px;
+    right: 1px;
+    font-weight: 700;
+font-size: 32px;
+color: blue; 
+}
+.gpl{
+    position: relative;
+    color: blue;
+    font-size: 22px;
+    font-weight: 1900;
+    bottom: 50px;
+    letter-spacing: 2px; 
+
+}
+.offer{
+    height: 35vh;
+    width: 100%;
+    background-color: blue;
+
+}
+.discount{
+    color: white;
+    font-weight: 900;
+    padding-top: 80px;
+    font-family: cursive;
+    position: relative; 
+    right: 520px;
+}
+.tag{
+    color: white;
+    font-size: 32px;
+}
+.coupon{
+    position: relative;
+    font-size: 52px;
+    right: 7px;
+    top: 2px;
+}
+.promo{
+    position: relative;
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+    bottom: 65px;
+    right: 237px;
+}
+.das{
+    position: relative;
+    color: white;
+    font-weight: 900;
+    font-size: 40px;
+    bottom: 0px;
+    right: 30px;
+    
+}
+.bg{
+    position: relative;
+    color:blue;
+    right: 80px;
+    font-size: 50px;
+    top: 22px;}
+   .servy{
+    position: relative;
+    color: blue;
+    top: 27px;
+   } 
+.explain{
+    position: relative;
+    color: blue;
+    top: 17px;
+}
+.main{
+    font-weight: 900;
+    color: blue;
+
+}
+.free{
+    position: relative;
+    width: 17%;
+    background-color: blue;
+    height: 5px;
+    right: 462px;
+}
+.pome{
+    padding: 4px 4px 4px 4px;
+}
+.wid{
+    width: 40%;
+}
+.ar{
+    font-weight: 900;
+    color: blue; 
+    position: relative;
+}
+.li{
+    width: 20%;
+    background-color: blue;
+    height: 5px;
+    position: relative;
+    right: 447px;
+    bottom: 12px;
+}
+.cont{
+    background-color:aqua;
+    padding: 15px 15px 15px 15px;
+}
+.fom{
+    color: blue;
+
+}
+.lp{
+    width: 12%;
+    background-color: blue;
+    height: 5px;
+    position: relative;
+    right: 580px;
+    bottom: 7px;
+}
+.lv{
+    background-image: url("https://media.istockphoto.com/vectors/online-communication-concept-vector-id1396244680?k=20&m=1396244680&s=612x612&w=0&h=jU4K-_Fk46UHyJxSp5iTSccfzHDJP6FGGwTR17RD5vE=");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    width: 40%;
+    height: 50vh;
+    position: relative;
+    right: 680px;
+}
+.inp input{
+    width: 50%;
+    position: relative;
+    bottom: 200px;
+    padding-right: 380px;
+}
+.inp textarea{
+    width: 50%;
+    position: relative;
+    bottom: 200px;
+    padding-right: 350px;
+}
+.ko input{
+    position: relative;
+    width: 50%;
+    padding-right: 350px;
+    
+}
+.mo input{
+    position: relative;
+    width: 50%;
+    padding-right: 352px;
+}
+.inp{
+    position: relative;
+    bottom: 50px;
+    
+}
+.pd{
+    position: relative;
+    right: 100px;
+}
+.name{
+    font-size: 22px;
+    position: relative;
+    bottom: 200px;
+    right: 470px;
+    color: blue;
+}
+.email{
+    font-size: 22px;
+    position: relative;
+    bottom: 200px;
+    right: 470px;
+    color: blue;
+}
+.contact{
+    font-size: 22px;
+    position: relative;
+    bottom: 200px;
+    right: 470px;
+    color: blue;
+}
+.address{
+    font-size: 22px;
+    position: relative;
+    bottom: 200px;
+    right: 470px;
+    color: blue;
+}
